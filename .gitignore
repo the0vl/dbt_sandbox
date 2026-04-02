@@ -209,3 +209,8 @@ __marimo__/
 # dbt local / AI preset instructions (not for committing)
 /preset-instructions.md
 /profiles.yml
+
+# authentication keys
+/rsa_key.p8
+/rsa_key.pub
+/.user.yml
